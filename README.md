@@ -8,7 +8,7 @@ Install the following Libraries:
   nltk - punkt, stopword, stem, averaged_perceptron_tagger
   sklearn
 
-Make sure kdnuggetstest.tsv and kdnuggetstrain.tsv files are inside the directory of Dataset folder
+Make sure kdnuggetstest.tsv and kdnuggetstrain.tsv path in the coding section.
 
-Dataset folder must be placed on the directory of the downloaded folder.
+
 
